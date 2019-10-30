@@ -5,6 +5,7 @@ public class Main {
         RandomGeneratorImpl testGenerator = new RandomGeneratorImpl();
         System.out.println("Test collection:\n"+testGenerator.generateCollection(10));
 
+        
 
     }
 }
